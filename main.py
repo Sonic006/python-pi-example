@@ -5,4 +5,4 @@ def main(x) :
 def secondary() :
     print("new Function")
 
-main("Hello People")
+main("Hello people")
