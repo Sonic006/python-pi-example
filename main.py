@@ -1,8 +1,8 @@
 def main(x) :
     print(x)
-<<<<<<< HEAD
-    //Creating a different comment
-=======
-    //This is a comment
->>>>>>> refs/remotes/origin/master
+    //No longer needs comment here
+
+def secondary() :
+    print("new Function")
+
 main("Hello People")
